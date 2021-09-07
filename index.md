@@ -8,7 +8,7 @@ notification: Here's a notification bar you can use!
 sections:
     - hero:
         title: MinLaw Legal Tech Platform Initiative
-        subtitle: Hero subtitle
+        subtitle: Booboo
         background: /images/hero-banner.png
         button: Contact Us
         url: /contact-us/
