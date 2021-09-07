@@ -9,17 +9,17 @@ sections:
   - hero:
       title: MinLaw Legal Technology Platform Initiative
       background: /images/hero-banner.png
-      button: Contact Us
+      button: Subscribe to our mailing list
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: Open Industry Legal Platform
+          description: Legal matters management solution for law firms
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: LTPI GRANTS PROGRAMME
+          description: Funding support for tech adoption
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: LEGAL INDUSTRY PARTNERSHIPS
+          description: Co-development with partners
           url: /privacy/
   - infobar:
       title: Infobar title
