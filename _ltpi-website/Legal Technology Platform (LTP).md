@@ -35,3 +35,9 @@ The LTP was built with input from a group of leading legal departments and law f
 * LTP data belonging to Singapore users will be hosted in Singapore, with data masking and strict access controls in place.
 * These are complemented by third-party data and security audits and penetration testing done annually, as well as continuous code and network vulnerability testing throughout the year.
 * The data protection and user agreement for the LTP is also accessible to the public here (INSERT LINK HERE) for prospective users to make an informed decision.
+
+SOC 2 Type 2 audit and certification is planned for the year, and efforts to achieve ISO 27001 certification will follow shortly after.
+
+**What technical support can lawyers get?**
+
+There will be dedicated personnel from Lupl to onboard and train lawyers on the essential features of the LTP, and help lawyers get started. There is no need for lawyers to worry about maintenance as the LTP will be upgraded automatically with maintenance and security patches pushed down to the users on the back end. A 24/7 technical helpline will be available for Singapore users, to address any troubleshooting needs.
