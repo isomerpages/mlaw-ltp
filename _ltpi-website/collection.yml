@@ -2,5 +2,6 @@ collections:
   ltpi-website:
     output: true
     order:
+      - LTP Initiative/Legal Technology Platform Initiative.md
       - LTP Initiative/.keep
       - About MinLaw Tech & Innovation.md
