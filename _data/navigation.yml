@@ -4,3 +4,5 @@ links:
     url: /contact-us/
   - title: Collection Example
     collection: collection-example
+  - title: About
+    collection: about
