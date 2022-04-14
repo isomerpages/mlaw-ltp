@@ -9,18 +9,20 @@ The LTP is a matter management tool designed around legal workflows, and integra
 
 Sign up for a product demo [here](https://lupl.com/singapore/).
 
-How will the LTP help lawyers and law firms?
+**How will the LTP help lawyers and law firms?**
 
 The LTP will streamline lawyers' day-to day workflows by providing a one-stop platform that provides then with a bird's-eye view of key information related to their matters, so that they can concentrate on more substantive legal work.
 
-Key LTP Features include
+Key LTP Features include:
 * Management and tracking of legal workflows, such as assignment of tasks and reminders.
 * Integrated view of communications, including viewing email correspondence from within the matter channel and chat messages from Slack (a 3rd party messaging app).
 * Coordinate projects across different platforms, such as the ability to initiate sharing of documents through WhatsApp, and check on the status of matters via Microsoft Teams.
 * Interoperability with existing legal technology tools popular among Singapore lawyers, such as Tessaract and Clio, and video-conferencing tools such as Zoom.
 * Knowledge hub, which hosts templates and checklists for lawyers' use.
 
+Upcoming (beyond 2Q 2022)
+* Progressive enhancements to improve connectivity with systems that lawyers often interact with, such as eLitigation and LawNet.
+* Enhancements of existing features based on feedback from Singapore lawyers.
 
-
-
-
+How secure is the LTP?
+MinLaw
