@@ -24,5 +24,9 @@ Upcoming (beyond 2Q 2022)
 * Progressive enhancements to improve connectivity with systems that lawyers often interact with, such as eLitigation and LawNet.
 * Enhancements of existing features based on feedback from Singapore lawyers.
 
-How secure is the LTP?
-MinLaw
+**How secure is the LTP?**
+
+MinLaw encourages all users of legal technology to read the Law Society of Singapore's Guide to Cybersecurity (INSERT LINK) in order to make informed decisions about the tools they adopt.
+
+The LTP was built with input from a group of leading legal departments and law firms, and incorporates their security and privacy requirements. These were combined with best practices in secure system design, to ensure a privacy and security first approach.
+
