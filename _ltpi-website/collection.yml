@@ -1,4 +1,5 @@
 collections:
   ltpi-website:
     output: true
-    order: []
+    order:
+      - About MinLaw Tech & Innovation.md
