@@ -2,9 +2,5 @@ logo: /images/isomer-logo.svg
 links:
   - title: Contact Us
     url: /contact-us/
-  - title: LTP Initiative
-    url: /ltp-initiative/
   - title: Collection Example
     collection: collection-example
-  - title: Legal Tech Initiative
-    resource_room: true
