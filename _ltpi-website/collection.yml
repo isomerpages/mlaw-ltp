@@ -1,0 +1,4 @@
+collections:
+  ltpi-website:
+    output: true
+    order: []
