@@ -3,7 +3,7 @@ title: Legal Technology Platform (LTP)
 permalink: /ltpi-website/permalink
 description: ""
 ---
-**What is the LTP?**
+* **What is the LTP?**
 
 The LTP is a matter management tool designed around legal workflows, and integrated with legal technology tools and public services commonly used by Singapore law firms. It was co-developed by MinLaw and its technology partner, Lupl, by building Singapore-specific features onto Lupl's base platform, which is available globally and has users from over 200 companies and 30 countries.
 
@@ -30,3 +30,8 @@ MinLaw encourages all users of legal technology to read the Law Society of Singa
 
 The LTP was built with input from a group of leading legal departments and law firms, and incorporates their security and privacy requirements. These were combined with best practices in secure system design, to ensure a privacy and security first approach.
 
+* The LTP currently holds SOC 2 Type 1 and Cloud Security Alliance STAR Level 1 certifications.
+* It complies with the requirements of applicable laws and regulations, including Singapore's Personal Data Protection Act (PDPA) and the EU's General Data Protection Regulation (GDPR).
+* LTP data belonging to Singapore users will be hosted in Singapore, with data masking and strict access controls in place.
+* These are complemented by third-party data and security audits and penetration testing done annually, as well as continuous code and network vulnerability testing throughout the year.
+* The data protection and user agreement for the LTP is also accessible to the public here (INSERT LINK HERE) for prospective users to make an informed decision.
