@@ -4,8 +4,6 @@ links:
     url: /contact-us/
   - title: Collection Example
     collection: collection-example
-  - title: About
-    collection: about
   - title: LTP Initiative
     url: /ltpi-website/LTP-Initiative
     sublinks:
@@ -15,3 +13,6 @@ links:
         url: /ltpi-website/indengval
       - title: LTPI Funding Programme
         url: /ltpi-website/ltpifunding
+  - title: About
+    url: /ltpi-website/About
+    sublinks: []
