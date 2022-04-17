@@ -7,7 +7,7 @@ links:
   - title: About
     collection: about
   - title: LTP Initiative
-    url: /permalink
+    url: /ltpi-website/LTP-Initiative
     sublinks:
-      - title: LTP Initiative
-        url: /permalink
+      - title: Legal Tech Platform
+        url: /ltpi-website/LTP
