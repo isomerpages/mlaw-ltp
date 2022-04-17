@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - LTP Initiative/.keep
-      - Legal Technology Platform Initiative.md
       - Legal Technology Platform (LTP).md
       - Industry Engagement and Validation.md
       - LTPI Funding Programme.md
