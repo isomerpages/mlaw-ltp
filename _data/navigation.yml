@@ -6,3 +6,8 @@ links:
     collection: collection-example
   - title: About
     collection: about
+  - title: LTP Initiative
+    url: /permalink
+    sublinks:
+      - title: LTP Initiative
+        url: /permalink
