@@ -13,13 +13,6 @@ links:
         url: /ltpi-website/indengval
       - title: LTPI Funding Programme
         url: /ltpi-website/ltpifunding
-  - title: About
-    url: /ltpi-website/About
-    sublinks:
-      - title: Roadmap
-        url: /permalink
-      - title: FAQs
-        url: /permalink
   - title: Legal Industry Digital Plan
     url: /permalink
     sublinks:
@@ -35,4 +28,11 @@ links:
       - title: Press Releases
         url: /permalink
       - title: Events
+        url: /permalink
+  - title: About
+    url: /ltpi-website/About
+    sublinks:
+      - title: Roadmap
+        url: /permalink
+      - title: FAQs
         url: /permalink
