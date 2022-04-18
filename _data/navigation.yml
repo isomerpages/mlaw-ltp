@@ -27,3 +27,12 @@ links:
         url: /permalink
       - title: Self-assessment tool
         url: /permalink
+  - title: Media
+    url: /permalink
+    sublinks:
+      - title: Announcements
+        url: /permalink
+      - title: Press Releases
+        url: /permalink
+      - title: Events
+        url: /permalink
