@@ -2,5 +2,5 @@ collections:
   about:
     output: true
     order:
-      - FAQa.md
+      - FAQs.md
       - Legal Industry Technology and Innovation Roadmap.md
