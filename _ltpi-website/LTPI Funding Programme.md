@@ -60,7 +60,7 @@ The typical duration of support for adopting of technology solutions is usually 
 
 We are prioritising solutions that are both integrated and commercially bundled with LTP for the two-year funding support. This is because we want to further encourage the adoption of these solutions as using them with the LTP is more seamless (due to the integration) and they offer greater value-for-money for SLPs that use the LTP (due to the commercial bundles with the LTP). 
 
-7. Can you elaborate on the application and claims processes for an SLP, e.g. documents to be submitted, time taken to approve and time taken to reimburse?
+**7. Can you elaborate on the application and claims processes for an SLP, e.g. documents to be submitted, time taken to approve and time taken to reimburse?**
 
 Applications
 To apply for the PSG, firms will have to:
@@ -69,5 +69,23 @@ To apply for the PSG, firms will have to:
 * Firm should not have signed any contract or made any payment before submitting the PSG application
 * Submit an application on the Business Grants Portal (BGP) at www.businessgrants.gov.sg. Firms will need to have a SingPass account to transact on the BGP.
 
+Click [here](https://www.enterprisesg.gov.sg/-/media/esg/files/financial-assistance/grants/for-local-companies/productivity-solutions-grant/psg-step-by-step-guide.pdf?la=en) for a step-by-step guide.
+
+Applications are processed about six (6) weeks from the submission of all required information and will be processed by ESG. SLPs are strongly encouraged to submit applications ahead of time to account for the application outcome and/or processing duration required. 
+
+**Claims**
+
+There can only be one claim per approved application.
+
+For claims submission,  firm needs to ensure:
+* Claimant has subscribed to the solution as approved in the application; 
+* Claimant has used the solution; 
+* Claimant has paid for the solution in full; 
+* Claimant has submitted all claim documentation; and
+* Disbursements can only be made after the claims have been approved.
+
+Firms should also ensure that there is an existing GIRO arrangement. Firms may submit their GIRO details through the [ESG Giro Form](https://form.gov.sg/#!/6051dc1769a33e00121ed0e7). 
+
+Click [here](https://www.enterprisesg.gov.sg/-/media/esg/files/financial-assistance/grants/for-local-companies/productivity-solutions-grant/psg-step-by-step-guide.pdf?la=en) for a step-by-step guide.
 
 9. Will this funding programme be available for foreign law practices, joint law ventures and formal law alliances?
