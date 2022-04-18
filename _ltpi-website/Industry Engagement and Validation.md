@@ -3,7 +3,7 @@ title: Industry Engagement and Validation
 permalink: /ltpi-website/indengval
 description: ""
 ---
-![](/images/IEAG/8RI.jpg)![](/images/IEAG/7LSS.jpg)![](/images/IEAG/6SJ.jpg)The LTP was developed for Singapore law firms in close consultation with more than 100 lawyers from small and medium Singapore law firms, including through feedback sessions co-organised by the Law Society of Singapore with its members and relevant standing committees.
+The LTP was developed for Singapore law firms in close consultation with more than 100 lawyers from small and medium Singapore law firms, including through feedback sessions co-organised by the Law Society of Singapore with its members and relevant standing committees.
 
 **LTP Industry Engagement and Advisory Group ("IEAG")**
 
