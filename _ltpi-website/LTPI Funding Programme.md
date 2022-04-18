@@ -44,13 +44,12 @@ SLPs who have previously tapped on Tech Start for Law and/or Tech-celerate for L
 
 The amount and duration of support vary according to the solution chosen. The grant cap is S$300,000 per annum per entity. The cap can be shared across all solutions adopted by the SLP within PSG.
 
-| Solution that is ... | Integrated and commercially bundled with LTP | Integrated with LTP, but not commercially bundled with LTP | Neither integrated nor commercially bundled with LTP | 
+| **Solution that is ...** | **Integrated and commercially bundled with LTP**(1) | **Integrated with LTP, but not commercially bundled with LTP**(1) | **Neither integrated nor commercially bundled with LTP**(1) | 
 | -------- | -------- | -------- | -------- | 
-| Text     | Text     | Text     |  | 
-
-
-
-
+| Duration of support per SLP | Up to two years | Up to one year | Not supported | 
+| Amount of support per SLP | Up to 70% | Up to 70% | 0%  | 
+| Grant cap per SLP  | S$30,000 per annum per entity across all solutions within PSG | S$30,000 per annum per entity across all solutions within PSG  | S$30,000 per annum per entity across all solutions within PSG  | 
+(1) Status of solution provider as at time of grant application by the SLP
 
 
 6. Why is the duration of the support extended to two years for some solutions?
