@@ -13,4 +13,4 @@ It presents intiatives and recommendations to support law firms and in-house leg
 *  Identify technologies that will impact legal services
 *  Explores ways to support the development and adoption of such technologies
 
-Download a copy of the TIR ***here*** (PENDING)
+Download a copy of the TIR [here](https://www.mlaw.gov.sg/files/news/press-releases/2020/10/MinLaw_Tech_and_innovation_Roadmap_Report.pdf)
