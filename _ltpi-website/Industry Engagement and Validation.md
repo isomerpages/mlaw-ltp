@@ -9,6 +9,4 @@ The LTP was developed for Singapore law firms in close consultation with more th
 
 The IEAG was jointly appointed by MinLaw and Lupl, to ensure ongoing engagement and validation of the LTP's features. The IEAG is a group of early adopters from small and medium SLPs, to test, provide feedback and advocate the use of the LTP. Here's what the IEAG members have to say about the LTP.
 
-![](/images/IEAG/AC.jpg)
-
-![](/images/IEAG/DS.jpg)
+![](/images/IEAG/1AC.jpg)
