@@ -40,7 +40,7 @@ SLPs who have previously tapped on Tech Start for Law and/or Tech-celerate for L
 | Category 1; Brand A   | Category 1; Brand B | Contact MinLaw |
 
 
-4. How much funding can each SLP potentially receive? Is there a cap for the funding for each firm?
+**4. How much funding can each SLP potentially receive? Is there a cap for the funding for each firm?**
 
 The amount and duration of support vary according to the solution chosen. The grant cap is S$300,000 per annum per entity. The cap can be shared across all solutions adopted by the SLP within PSG.
 
