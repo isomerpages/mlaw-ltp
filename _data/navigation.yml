@@ -15,7 +15,11 @@ links:
         url: /ltpi-website/ltpifunding
   - title: About
     url: /ltpi-website/About
-    sublinks: []
+    sublinks:
+      - title: Roadmap
+        url: /permalink
+      - title: FAQs
+        url: /permalink
   - title: Legal Industry Digital Plan
     url: /permalink
     sublinks:
