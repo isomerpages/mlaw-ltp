@@ -16,3 +16,10 @@ links:
   - title: About
     url: /ltpi-website/About
     sublinks: []
+  - title: Legal Industry Digital Plan
+    url: /permalink
+    sublinks:
+      - title: eGuide
+        url: /permalink
+      - title: Self-assessment tool
+        url: /permalink
