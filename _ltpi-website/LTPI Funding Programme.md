@@ -30,6 +30,15 @@ In addition, prior to application submission, the company must not have:
 
 **3. Can SLPs that were funded under earlier funding programmes such as Tech Start for Law and Tech-celerate for Law apply for the funding programme?**
 
+SLPs who have previously tapped on Tech Start for Law and/or Tech-celerate for Law can still qualify for the LTPI funding programme if they are adopting a solution from a different solution category. If the SLP wishes to switch solution within the same category, they should contact MinLaw. Please refer to the table below for more details.
+
+**Illustration:**
+
+| Tech-Start for Law or Tech-celerate for Law | LTP funding | Eligibility |
+| -------- | -------- | -------- |
+| Category 1; Brand A   | Category 2; Brand X     | Yes   |
+| Category 1; Brand A   | Category 1; Brand B |
+
 
 
 5. How much funding can each SLP potentially receive? Is there a cap for the funding for each firm?
