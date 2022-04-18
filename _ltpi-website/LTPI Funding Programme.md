@@ -52,8 +52,13 @@ The amount and duration of support vary according to the solution chosen. The gr
 
 *(1) Status of solution provider as at time of grant application by the SLP*
 
+**5. Why is the duration of the support extended to two years for some solutions?**
 
-6. Why is the duration of the support extended to two years for some solutions?
-7. Why are some solutions supported for one year, and some two years?
+The typical duration of support for adopting of technology solutions is usually one year under the standard PSG programme. For the legal sector, we have decided to extend the duration to two years for this LTPI funding programme, so that the law firms have a longer runway to realise the benefits of adopting the LTP and solutions that are integrated and commercially bundled to it. 
+
+**6. Why are some solutions supported for one year, and some two years?**
+
+We are prioritising solutions that are both integrated and commercially bundled with LTP for the two-year funding support. This is because we want to further encourage the adoption of these solutions as using them with the LTP is more seamless (due to the integration) and they offer greater value-for-money for SLPs that use the LTP (due to the commercial bundles with the LTP). 
+
 8. Can you elaborate on the application and claims processes for an SLP, e.g. documents to be submitted, time taken to approve and time taken to reimburse?
 9. Will this funding programme be available for foreign law practices, joint law ventures and formal law alliances?
