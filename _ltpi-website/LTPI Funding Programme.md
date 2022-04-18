@@ -88,4 +88,11 @@ Firms should also ensure that there is an existing GIRO arrangement. Firms may s
 
 Click [here](https://www.enterprisesg.gov.sg/-/media/esg/files/financial-assistance/grants/for-local-companies/productivity-solutions-grant/psg-step-by-step-guide.pdf?la=en) for a step-by-step guide.
 
-9. Will this funding programme be available for foreign law practices, joint law ventures and formal law alliances?
+**8. Will this funding programme be available for foreign law practices, joint law ventures and formal law alliances?**
+
+This programme is available to Singapore Law Practices as defined in the Rule 3 of the Legal Profession (Law Practice Entities) Rules 2015 only. 
+
+The applicant firm should fulfil the local SME criteria:
+* At least 30% local shareholding 
+* Registered and operating in Singapore 
+* Group annual sales turnover ≤ S$100m or group employment of ≤200 employees
