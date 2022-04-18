@@ -30,11 +30,4 @@ links:
       - title: Events
         url: /permalink
   - title: About
-    url: /ltpi-website/Roadmap
-    sublinks:
-      - title: Roadmap
-        url: /ltpi-website/Roadmap
-      - title: FAQs
-        url: /permalink
-  - title: About Folder
     collection: about
