@@ -37,7 +37,7 @@ SLPs who have previously tapped on Tech Start for Law and/or Tech-celerate for L
 | Tech-Start for Law or Tech-celerate for Law | LTP funding | Eligibility |
 | -------- | -------- | -------- |
 | Category 1; Brand A   | Category 2; Brand X     | Yes   |
-| Category 1; Brand A   | Category 1; Brand B |
+| Category 1; Brand A   | Category 1; Brand B | Contact MinLaw |
 
 
 
