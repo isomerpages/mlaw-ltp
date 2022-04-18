@@ -36,3 +36,5 @@ links:
         url: /ltpi-website/Roadmap
       - title: FAQs
         url: /permalink
+  - title: About Folder
+    collection: about
