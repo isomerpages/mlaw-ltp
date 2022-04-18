@@ -34,14 +34,16 @@ SLPs who have previously tapped on Tech Start for Law and/or Tech-celerate for L
 
 **Illustration:**
 
-| Tech-Start for Law or Tech-celerate for Law | LTP funding | Eligibility |
+| **Tech-Start for Law or Tech-celerate for Law** | **LTP funding** | **Eligibility** |
 | -------- | -------- | -------- |
 | Category 1; Brand A   | Category 2; Brand X     | Yes   |
 | Category 1; Brand A   | Category 1; Brand B | Contact MinLaw |
 
 
+4. How much funding can each SLP potentially receive? Is there a cap for the funding for each firm?
 
-5. How much funding can each SLP potentially receive? Is there a cap for the funding for each firm?
+The amount and duration of support vary according to the solution chosen. The grant cap is S$300,000 per annum per entity. The cap can be shared across all solutions adopted by the SLP within PSG.
+
 6. Why is the duration of the support extended to two years for some solutions?
 7. Why are some solutions supported for one year, and some two years?
 8. Can you elaborate on the application and claims processes for an SLP, e.g. documents to be submitted, time taken to approve and time taken to reimburse?
