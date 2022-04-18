@@ -30,9 +30,9 @@ links:
       - title: Events
         url: /permalink
   - title: About
-    url: /ltpi-website/About
+    url: /permalink
     sublinks:
       - title: Roadmap
-        url: /permalink
+        url: /ltpi-website/Roadmap
       - title: FAQs
         url: /permalink
