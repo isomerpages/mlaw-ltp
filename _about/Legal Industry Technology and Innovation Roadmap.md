@@ -3,10 +3,6 @@ title: Legal Industry Technology and Innovation Roadmap
 permalink: /ltpi-website/Roadmap
 description: ""
 ---
-
-
-# Legal Industry Technology and Innovation Roadmap
-
 **A sector-wide plan to promote innovation, technology adoption and development in Singapore's legal industry up to 2030.**
 
 The need for transformation is now more pressing due to COVID-19 and disruption from AI, blockchain, multi-disciplinary practices and alternative legal services providers.
