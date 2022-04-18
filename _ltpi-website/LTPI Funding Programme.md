@@ -60,5 +60,14 @@ The typical duration of support for adopting of technology solutions is usually 
 
 We are prioritising solutions that are both integrated and commercially bundled with LTP for the two-year funding support. This is because we want to further encourage the adoption of these solutions as using them with the LTP is more seamless (due to the integration) and they offer greater value-for-money for SLPs that use the LTP (due to the commercial bundles with the LTP). 
 
-8. Can you elaborate on the application and claims processes for an SLP, e.g. documents to be submitted, time taken to approve and time taken to reimburse?
+7. Can you elaborate on the application and claims processes for an SLP, e.g. documents to be submitted, time taken to approve and time taken to reimburse?
+
+Applications
+To apply for the PSG, firms will have to:
+* Visit [GoBusiness Gov Assist](https://www.gobusiness.gov.sg/gov-assist/) to access the [list of supportable solutions](https://www.gobusiness.gov.sg/productivity-solutions-grant/) and identify relevant solutions that they may want to procure
+* Obtain quotations from solution provider (unsigned). IT solutions and solution providers have been pre-qualified under the grant
+* Firm should not have signed any contract or made any payment before submitting the PSG application
+* Submit an application on the Business Grants Portal (BGP) at www.businessgrants.gov.sg. Firms will need to have a SingPass account to transact on the BGP.
+
+
 9. Will this funding programme be available for foreign law practices, joint law ventures and formal law alliances?
