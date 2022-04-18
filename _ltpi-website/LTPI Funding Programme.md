@@ -49,6 +49,7 @@ The amount and duration of support vary according to the solution chosen. The gr
 | **Duration of support per SLP** | Up to two years | Up to one year | Not supported | 
 | **Amount of support per SLP** | Up to 70% | Up to 70% | 0%  | 
 | **Grant cap per SLP**  | S$30,000 per annum per entity across all solutions within PSG | S$30,000 per annum per entity across all solutions within PSG  | S$30,000 per annum per entity across all solutions within PSG  | 
+
 (1) Status of solution provider as at time of grant application by the SLP
 
 
