@@ -2,6 +2,5 @@ collections:
   ltpi-website:
     output: true
     order:
-      - Legal Technology Platform (LTP).md
       - Industry Engagement and Validation.md
       - LTPI Funding Programme.md
