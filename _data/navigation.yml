@@ -2,8 +2,6 @@ logo: /images/isomer-logo.svg
 links:
   - title: Contact Us
     url: /contact-us/
-  - title: Collection Example
-    collection: collection-example
   - title: LTP Initiative
     url: /ltpi-website/LTP-Initiative
     sublinks:
@@ -13,21 +11,7 @@ links:
         url: /ltpi-website/indengval
       - title: LTPI Funding Programme
         url: /ltpi-website/ltpifunding
-  - title: Legal Industry Digital Plan
-    url: /permalink
-    sublinks:
-      - title: eGuide
-        url: /permalink
-      - title: Self-assessment tool
-        url: /permalink
-  - title: Media
-    url: /permalink
-    sublinks:
-      - title: Announcements
-        url: /permalink
-      - title: Press Releases
-        url: /permalink
-      - title: Events
-        url: /permalink
   - title: About
     collection: about
+  - title: LTP Initiative
+    url: /ltpi-website/LTP-Initiative
