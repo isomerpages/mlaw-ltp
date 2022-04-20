@@ -14,13 +14,13 @@ sections:
       key_highlights:
         - title: Open Industry Legal Platform
           description: Legal matters management solution for law firms
-          url: https://google.com
+          url: /ltpi-website/LTP
         - title: LTPI GRANTS PROGRAMME
           description: Funding support for tech adoption
-          url: https://gmail.com
+          url: /ltpi-website/ltpifunding
         - title: LEGAL INDUSTRY PARTNERSHIPS
           description: Co-development with partners
-          url: /privacy/
+          url: /ltpi-website/indengval
   - infobar:
       title: Infobar title
       subtitle: Subtitle
