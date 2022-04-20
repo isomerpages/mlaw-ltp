@@ -2,5 +2,4 @@ collections:
   ltpi-website:
     output: true
     order:
-      - Industry Engagement and Validation.md
       - LTPI Funding Programme.md
