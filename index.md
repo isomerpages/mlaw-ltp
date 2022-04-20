@@ -22,11 +22,11 @@ sections:
           description: Co-development with partners
           url: /ltpi-website/indengval
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: LTP Initiative
+      subtitle: LTP Initiative
+      description: "The LTP Initiative is ..... "
+      button: Learn More
+      url: /ltpi-website/LTP-Initiative
   - resources:
       title: Media
       subtitle: Learn more
