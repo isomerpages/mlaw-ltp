@@ -1,5 +1,4 @@
 collections:
   ltpi-website:
     output: true
-    order:
-      - LTPI Funding Programme.md
+    order: []
