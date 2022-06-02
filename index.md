@@ -21,9 +21,6 @@ sections:
         - title: Industry Engagement
           description: ""
           url: /indengval
-        - title: Legal Technology Platform Initiative (LTPI)
-          description: ""
-          url: ""
   - infobar:
       title: LTP Initiative
       subtitle: LTP Initiative
