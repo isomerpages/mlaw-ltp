@@ -12,8 +12,8 @@ sections:
       button: Subscribe to our mailing list
       url: /contact-us/
       key_highlights:
-        - title: Open Industry Legal Platform
-          description: Legal matters management solution for law firms
+        - title: Legal Technology Platform
+          description: Matter management tools
           url: /LTP
         - title: LTPI FUNDING PROGRAMME
           description: Funding support for tech adoption
