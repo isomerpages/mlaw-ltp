@@ -22,8 +22,7 @@ sections:
           description: ""
           url: /indengval
   - infobar:
-      title: LTP Initiative
-      subtitle: LTP Initiative
+      title: Legal Technology Platform Initiative (LTPI)
       description: "The LTP Initiative is ..... "
       button: Learn More
       url: /LTP-Initiative
