@@ -18,7 +18,7 @@ sections:
         - title: LTPI Funding Programme
           description: Funding support for tech adoption
           url: /ltpifunding
-        - title: LEGAL INDUSTRY PARTNERSHIPS
+        - title: Industry Engagement
           description: Co-development with partners
           url: /indengval
   - infobar:
