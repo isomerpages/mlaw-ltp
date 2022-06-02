@@ -15,7 +15,7 @@ sections:
         - title: Open Industry Legal Platform
           description: Legal matters management solution for law firms
           url: /LTP
-        - title: LTPI GRANTS PROGRAMME
+        - title: LTPI FUNDING PROGRAMME
           description: Funding support for tech adoption
           url: /ltpifunding
         - title: LEGAL INDUSTRY PARTNERSHIPS
