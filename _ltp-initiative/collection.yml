@@ -1,4 +1,5 @@
 collections:
   ltp-initiative:
     output: true
-    order: []
+    order:
+      - Legal Technology Platform Initiative.md
