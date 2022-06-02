@@ -15,7 +15,7 @@ sections:
         - title: Legal Technology Platform
           description: Matter management tools
           url: /LTP
-        - title: LTPI FUNDING PROGRAMME
+        - title: LTPI Funding Programme
           description: Funding support for tech adoption
           url: /ltpifunding
         - title: LEGAL INDUSTRY PARTNERSHIPS
