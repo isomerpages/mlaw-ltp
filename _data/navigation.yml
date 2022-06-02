@@ -1,8 +1,10 @@
 logo: /images/isomer-logo.svg
 links:
+  - title: LTP Initiative
+    url: /ltp-initiative
   - title: About
     collection: about
   - title: Contact Us
     url: /contact-us/
-  - title: LTP Initiative
-    url: /ltp-initiative
+  - title: Legal Technology Platform
+    url: /ltp
