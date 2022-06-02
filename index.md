@@ -21,6 +21,4 @@ sections:
         - title: Industry Engagement
           description: ""
           url: /indengval
-  - resources:
-      title: News and Information
 ---
