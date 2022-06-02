@@ -19,7 +19,7 @@ sections:
           description: Funding support for tech adoption
           url: /ltpifunding
         - title: Industry Engagement
-          description: Co-development with partners
+          description: ""
           url: /indengval
   - infobar:
       title: LTP Initiative
