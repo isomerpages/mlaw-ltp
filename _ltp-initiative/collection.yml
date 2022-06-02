@@ -2,4 +2,5 @@ collections:
   ltp-initiative:
     output: true
     order:
+      - Legal Technology Platform (LTP).md
       - Legal Technology Platform Initiative.md
