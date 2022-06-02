@@ -9,8 +9,8 @@ sections:
   - hero:
       title: MinLaw Legal Technology Platform Initiative
       background: /images/hero-banner.png
-      button: Subscribe to our mailing list
-      url: /contact-us/
+      button: Learn more
+      url: /ltp-initiative
       key_highlights:
         - title: Legal Technology Platform
           description: ""
