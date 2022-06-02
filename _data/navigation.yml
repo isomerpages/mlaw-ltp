@@ -1,11 +1,5 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: LTP Initiative
-    url: /LTP-Initiative
-  - title: Legal Tech Platform
-    url: /LTP
-  - title: Industry Engagement
-    url: /indengval
   - title: About
     collection: about
   - title: Contact Us
