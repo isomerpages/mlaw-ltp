@@ -6,3 +6,8 @@ links:
     collection: about
   - title: News
     resource_room: true
+  - title: LTP Initiative
+    url: /ltp-initiative
+    sublinks:
+      - title: "Legal Technology Platform "
+        url: /ltp
