@@ -13,7 +13,7 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: Legal Technology Platform
-          description: Matter management tool
+          description: ""
           url: /LTP
         - title: LTPI Funding Programme
           description: ""
