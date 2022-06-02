@@ -2,5 +2,6 @@ collections:
   ltp-initiative:
     output: true
     order:
+      - LTPI Funding Programme.md
       - Legal Technology Platform (LTP).md
       - Legal Technology Platform Initiative.md
