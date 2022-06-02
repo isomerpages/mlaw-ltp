@@ -4,7 +4,5 @@ links:
     collection: ltp-initiative
   - title: About
     collection: about
-  - title: Contact Us
-    url: /contact-us/
   - title: News
     resource_room: true
