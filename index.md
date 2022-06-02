@@ -16,7 +16,7 @@ sections:
           description: Matter management tool
           url: /LTP
         - title: LTPI Funding Programme
-          description: Funding support for tech adoption
+          description: ""
           url: /ltpifunding
         - title: Industry Engagement
           description: ""
