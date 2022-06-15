@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: MinLaw Legal Technology Platform Initiative
-      background: /images/JPEG_LTPI Lockup_Single Colour.jpg
+      background: /images/hero-banner.png
       button: Learn more
       url: /ltp-initiative
       key_highlights:
