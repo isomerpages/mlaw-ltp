@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Legal Technology Platform Initiative
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
@@ -22,3 +22,4 @@ sections:
           description: ""
           url: /indengval
 ---
+
