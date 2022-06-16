@@ -21,5 +21,8 @@ sections:
         - title: Industry Engagement
           description: ""
           url: /indengval
+  - infobar:
+      title: LTP Initiative
+      description: Infobar description
+      button: Button Text
 ---
-
