@@ -28,7 +28,7 @@ sections:
   - infopic:
       title: LTPI Funding Programme
       description: Infopic description
-      button: Button Text
+      button: Learn More
       url: /ltpifunding
       alt: Image alt text
 ---
