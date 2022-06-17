@@ -9,16 +9,6 @@ sections:
   - hero:
       background: /images/Banner/LTP banner.jpg
       url: https://lupl.com/singapore/
-      key_highlights:
-        - title: Legal Technology Platform
-          description: ""
-          url: /LTP
-        - title: LTPI Funding Programme
-          description: ""
-          url: /ltpifunding
-        - title: Industry Engagement
-          description: ""
-          url: /indengval
   - infopic:
       title: Industry Engagement
       description: LTP engages more than 200 lawyers from small and medium Singapore
