@@ -14,6 +14,7 @@ sections:
       button: Learn More
       url: /ltp
       alt: Image alt text
+      image: /images/Banner/LTP initiative.jpg
   - infopic:
       title: Industry Engagement
       description: LTP engages more than 200 lawyers from small and medium Singapore
