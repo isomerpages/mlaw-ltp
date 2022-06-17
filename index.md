@@ -10,6 +10,11 @@ sections:
       background: /images/Banner/LTP banner.jpg
       url: https://lupl.com/singapore/
   - infopic:
+      title: Legal Technology Platform Initiative
+      button: Learn More
+      url: /ltp
+      alt: Image alt text
+  - infopic:
       title: Industry Engagement
       description: LTP engages more than 200 lawyers from small and medium Singapore
         law firms through feedback sessions, co-organised by the Law Society of
@@ -26,9 +31,4 @@ sections:
       url: /ltpifunding
       alt: LTPI Funding
       image: /images/Banner/Funding.jpg
-  - infopic:
-      title: Legal Technology Platform Initiative
-      button: Learn More
-      url: /ltp
-      alt: Image alt text
 ---
