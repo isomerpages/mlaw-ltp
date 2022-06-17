@@ -21,7 +21,9 @@ sections:
           url: /indengval
   - infopic:
       title: Industry Engagement
-      description: Infopic description
+      description: LTP engages more than 200 lawyers from small and medium Singapore
+        law firms through feedback sessions, co-organised by the Law Society of
+        Singapore.
       button: Learn more
       url: /indengval
       alt: Industry Engagement
