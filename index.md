@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Shutterstock_1427768021.jpg
+      background: /images/LTP banner.jpg
       url: https://lupl.com/singapore/
       key_highlights:
         - title: Legal Technology Platform
