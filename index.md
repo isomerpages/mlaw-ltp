@@ -30,7 +30,8 @@ sections:
       image: /images/Banner/Ind Engagement.jpg
   - infopic:
       title: LTPI Funding Programme
-      description: Infopic description
+      description: LTPI funding programme supports of up to 70% of qualifying costs of
+        adopting select pre-scoped IT solutions, and for up to two years
       button: Learn More
       url: /ltpifunding
       alt: LTPI Funding
