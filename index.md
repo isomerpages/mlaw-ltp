@@ -23,4 +23,10 @@ sections:
       title: LTP Initiative
       description: Infobar description
       button: Button Text
+  - infopic:
+      title: Industry Engagement
+      description: Infopic description
+      button: Learn more
+      url: /indengval
+      alt: Image alt text
 ---
