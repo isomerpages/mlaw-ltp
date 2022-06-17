@@ -19,14 +19,16 @@ sections:
         - title: Industry Engagement
           description: ""
           url: /indengval
-  - infobar:
-      title: LTP Initiative
-      description: Infobar description
-      button: Button Text
   - infopic:
       title: Industry Engagement
       description: Infopic description
       button: Learn more
       url: /indengval
+      alt: Image alt text
+  - infopic:
+      title: LTPI Funding Programme
+      description: Infopic description
+      button: Button Text
+      url: /ltpifunding
       alt: Image alt text
 ---
