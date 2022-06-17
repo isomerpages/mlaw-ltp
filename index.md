@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: MinLaw Legal Technology Platform Initiative
       background: /images/LTP banner.jpg
       button: Request for demo
       url: https://lupl.com/singapore/
