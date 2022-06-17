@@ -26,4 +26,8 @@ sections:
       url: /ltpifunding
       alt: LTPI Funding
       image: /images/Banner/Funding.jpg
+  - infobar:
+      title: Legal Technology Platform Initiative
+      button: Learn More
+      url: /ltp
 ---
