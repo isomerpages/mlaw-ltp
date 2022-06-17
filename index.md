@@ -8,7 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/Shutterstock_1427768021.jpg
-      button: Request for demo
       url: https://lupl.com/singapore/
       key_highlights:
         - title: Legal Technology Platform
