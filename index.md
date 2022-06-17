@@ -26,7 +26,7 @@ sections:
       url: /indengval
       alt: Industry Engagement
       image: /images/Banner/Ind Engagement.jpg
-      subtitle: Industry Engagement
+      title: Industry Engagement
   - infopic:
       description: LTPI funding programme supports of up to 70% of qualifying costs of
         adopting select pre-scoped IT solutions, and for up to two years
