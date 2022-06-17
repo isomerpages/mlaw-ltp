@@ -15,6 +15,9 @@ sections:
       alt: LTP Initiative
       image: /images/Banner/LTP initiative.jpg
       subtitle: LTP Initiative
+      description: The LTP is a matter management tool designed around legal workflows
+        and integrated with legal technology tools and public services commonly
+        used by law firms
   - infopic:
       description: LTP engages more than 200 lawyers from small and medium Singapore
         law firms through feedback sessions, co-organised by the Law Society of
