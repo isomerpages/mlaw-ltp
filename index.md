@@ -25,10 +25,12 @@ sections:
       button: Learn more
       url: /indengval
       alt: Image alt text
+      image: /images/Banner/Ind Engagement.jpg
   - infopic:
       title: LTPI Funding Programme
       description: Infopic description
       button: Learn More
       url: /ltpifunding
       alt: Image alt text
+      image: /images/Banner/Funding.jpg
 ---
