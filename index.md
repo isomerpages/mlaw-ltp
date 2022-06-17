@@ -13,7 +13,7 @@ sections:
       title: Legal Technology Platform Initiative
       button: Learn More
       url: /ltp
-      alt: Image alt text
+      alt: LTP Initiative
       image: /images/Banner/LTP initiative.jpg
   - infopic:
       title: Industry Engagement
