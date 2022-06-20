@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner/LTP banner.jpg
+      background: /images/Banner/Front banner.png
       url: https://lupl.com/singapore/
   - infopic:
       button: Find out more
