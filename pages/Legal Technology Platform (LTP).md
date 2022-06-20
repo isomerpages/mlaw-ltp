@@ -27,4 +27,10 @@ The LTP will streamline lawyers' workflow by providing them with a bird's-eye vi
 
 ![LTP key features](/images/LTP%20folder/3%20key%20features.png)
 
+#### KEY SECURITY FEATURES
+
+The LTP incorporates the security and data privacy requirements of leading law firms and in-house legal departments.
+
 ![LTP key security features](/images/LTP%20folder/4%20key%20security%20features.png)
+
+#### TROUBLESHOOTING, UPGRADING AND MAINTENANCE
