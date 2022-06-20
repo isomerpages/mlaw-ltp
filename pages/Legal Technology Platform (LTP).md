@@ -6,6 +6,8 @@ image: /images/Banner/LTP initiative.jpg
 ---
 ![](/images/LTP%20folder/1%20top%20banner.png)
 
+[Sign up for LTP demo](https://lupl.com/singapore/)
+
 #### OVERVIEW
 
 ## What is the LTP?
