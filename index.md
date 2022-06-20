@@ -22,7 +22,7 @@ sections:
       description: The LTPI Funding Programme helps Singapore law firms defray the
         initial costs of adoption of the LTP and solutions integrated with it.
       button: Explore the funding programme
-      url: /ltpifunding
+      url: /funding
       alt: LTPI Funding
       image: /images/Banner/Funding programme.jpg
       title: LTPI Funding Programme
