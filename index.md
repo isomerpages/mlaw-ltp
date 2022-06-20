@@ -24,7 +24,7 @@ sections:
       button: Explore the funding programme
       url: /ltpifunding
       alt: LTPI Funding
-      image: /images/Banner/Funding.jpg
+      image: /images/Banner/Funding programme.jpg
       title: LTPI Funding Programme
   - infopic:
       description: An Industry Engagement and Advisory Group (IEAG), comprises early
@@ -33,6 +33,6 @@ sections:
       button: Learn more
       url: /indengval
       alt: Industry Engagement
-      image: /images/Banner/Ind Engagement.jpg
+      image: /images/Banner/Industry Engagement.jpg
       title: Industry Engagement
 ---
