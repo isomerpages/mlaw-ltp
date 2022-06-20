@@ -10,7 +10,7 @@ sections:
       background: /images/Banner/LTP banner.jpg
       url: https://lupl.com/singapore/
   - infopic:
-      button: Learn More
+      button: Find out more
       url: /ltp
       alt: LTP Initiative
       image: /images/Banner/LTP initiative.jpg
