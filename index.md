@@ -27,9 +27,9 @@ sections:
       image: /images/Banner/Funding.jpg
       title: LTPI Funding Programme
   - infopic:
-      description: LTP engages more than 200 lawyers from small and medium Singapore
-        law firms through feedback sessions, co-organised by the Law Society of
-        Singapore.
+      description: An Industry Engagement and Advisory Group (IEAG), comprises early
+        adopters from Singapore law firms to continuously test and provide
+        feedback about the LTP.
       button: Learn more
       url: /indengval
       alt: Industry Engagement
