@@ -35,5 +35,6 @@ The LTP incorporates the security and data privacy requirements of leading law f
 
 #### TROUBLESHOOTING, UPGRADING AND MAINTENANCE
 
+![LTP support](/images/LTP%20folder/5%20troubleshooting.png)
 
 [Sign up for LTP demo](https://lupl.com/singapore/)
