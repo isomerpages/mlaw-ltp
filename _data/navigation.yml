@@ -1,14 +1,5 @@
 logo: /images/LTPI Lockup_Full Colour-resized.jpg
 links:
-  - title: LTP Initiative
-    url: /ltp-initiative
-    sublinks:
-      - title: "Legal Technology Platform "
-        url: /ltp
-      - title: LTPI Funding Programme
-        url: /ltpifunding
-      - title: Industry Engagement
-        url: /indengval
   - title: About
     collection: about
   - title: News
