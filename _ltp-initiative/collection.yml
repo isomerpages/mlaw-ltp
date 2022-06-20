@@ -2,4 +2,4 @@ collections:
   ltp-initiative:
     output: true
     order:
-      - Legal Technology Platform Initiative (LTPI).md
+      - Legal Technology Platform (LTP).md
