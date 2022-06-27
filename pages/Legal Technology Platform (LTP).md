@@ -14,7 +14,6 @@ It is co-developed by MinLaw and its LTPI technology partner, Lupl, after consul
 
 ![LTP dashboard](/images/LTP%20folder/2%20dashboard.png)
 
-
 ## KEY FEATURES OF THE LTP
 
 ### How will the LTP help lawyers?
