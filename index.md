@@ -35,7 +35,7 @@ sections:
         adopters from Singapore law firms to continuously test and provide
         feedback about the LTP.
       button: Learn more
-      url: /engagement
+      url: /#
       alt: Industry Engagement
       image: /images/Banner/Industry Engagement.jpg
       title: Industry Engagement
