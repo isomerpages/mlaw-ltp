@@ -4,10 +4,6 @@ permalink: /ltp
 description: ""
 image: /images/Banner/LTP initiative.jpg
 ---
-![](/images/LTP%20folder/1%20top%20banner.png)
-
-[Sign up for LTP demo](https://lupl.com/singapore/)
-
 #### OVERVIEW
 
 ## What is the LTP?
@@ -21,7 +17,7 @@ It is co-developed by MinLaw and its LTPI technology partner, Lupl, after consul
 
 #### KEY FEATURES OF THE LTP
 
-## How till the LTP help lawyers?
+## How will the LTP help lawyers?
 
 The LTP will streamline lawyers' workflow by providing them with a bird's-eye view of their matters, so that they can concentrate n more substantive legal work.
 
