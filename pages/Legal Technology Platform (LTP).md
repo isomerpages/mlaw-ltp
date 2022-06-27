@@ -33,4 +33,4 @@ The LTP incorporates the security and data privacy requirements of leading law f
 
 ![LTP support](/images/LTP%20folder/5%20troubleshooting.png)
 
-[Sign up for LTP demo](https://lupl.com/singapore/)
+### Sign up for a product demo [here](https://lupl.com/singapore/).
