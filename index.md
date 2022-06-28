@@ -32,7 +32,7 @@ sections:
       image: /images/Banner/Funding programme.jpg
       title: LTPI Funding Programme
   - infopic:
-      description: An Industry Engagement and Advisory Group (IEAG), comprises early
+      description: An Industry Engagement and Advisory Group (IEAG), comprising early
         adopters from Singapore law firms to continuously test and provide
         feedback about the LTP.
       button: Learn more
