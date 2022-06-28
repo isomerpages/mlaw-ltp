@@ -18,9 +18,9 @@ sections:
       url: /ltp
       alt: LTP Initiative
       image: /images/Banner/LTP initiative.jpg
-      description: The LTP is a matter management and collaboration tool designed
-        around legal workflows and integrated with public services commonly used
-        by Singapore law firms
+      description: A matter management and collaboration tool designed around legal
+        workflows and integrated with public services commonly used by Singapore
+        law firms
       title: Legal Technology Platform (LTP)
   - infopic:
       description: The LTPI Funding Programme helps Singapore law firms defray the
