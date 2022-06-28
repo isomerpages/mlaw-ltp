@@ -23,8 +23,9 @@ sections:
         law firms
       title: Legal Technology Platform (LTP)
   - infopic:
-      description: The LTPI Funding Programme helps Singapore law firms defray the
-        initial costs of adoption of the LTP and solutions integrated with it.
+      description: Supporting Singapore law firms in their  digitalisation journey by
+        lowering the initial costs of adopting the LTP and other integrated
+        solutions.
       button: Explore the funding programme
       url: /funding
       alt: LTPI Funding
