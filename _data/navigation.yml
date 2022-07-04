@@ -1,12 +1,12 @@
 logo: /images/top and bottom logo.png
 links:
-  - title: About
-    collection: about
-  - title: News
-    resource_room: true
   - title: Legal Technology Platform
     url: /ltp
   - title: LTPI Funding Programme
     url: /funding
   - title: Industry Engagement
     url: /indengval
+  - title: About
+    collection: about
+  - title: News
+    resource_room: true
