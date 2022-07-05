@@ -22,6 +22,8 @@ The LTP helps to streamline lawyers' workflow by providing them with a bird's-ey
 
 ![LTP key features](/images/LTP%20folder/3%20key%20features.png)
 
+NOTE: MinLaw encourages all legaltech users to familiarise themselves with the Law Society of Singapore's Guide to Cybersecurity to make informed decisions about the tools they adopt.
+
 ### KEY SECURITY FEATURES
 
 The LTP incorporates the security and data privacy requirements of leading law firms and in-house legal departments.
