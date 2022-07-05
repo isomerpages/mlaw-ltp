@@ -9,4 +9,4 @@ The Ministry of Law ("MinLaw") and Enterprise Singapore ("Enterprise SG") have p
 
 For more information on the eligibility and the scope of the funding programme, please refer  to [LTPI Funding Programme](/files/LTPI%20Funding%20Programme.pdf).
 
-[Apply for the LTPI Funding Programme](https://www.gobusiness.gov.sg/productivity-solutions-grant/itsolution/legal/)
+Apply for the LTPI Funding Programme [here](https://www.gobusiness.gov.sg/productivity-solutions-grant/itsolution/legal/)
