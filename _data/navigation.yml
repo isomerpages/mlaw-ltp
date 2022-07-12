@@ -8,5 +8,3 @@ links:
     url: /indengval
   - title: About
     collection: about
-  - title: News
-    resource_room: true
