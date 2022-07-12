@@ -1,6 +1,6 @@
 title: Legal Technology Platform Initiative
 url: ""
-favicon: /images/top and bottom logo.png
+favicon: /images/LTPI Lockup_Full Colour-resized.jpg
 colors:
   primary-color: "#18386b"
   secondary-color: "#4372d6"
@@ -52,3 +52,8 @@ plugins:
   - jekyll-remote-theme
 staging: https://mlaw-ltp-staging.netlify.app
 prod: https://mlaw-ltp-prod.netlify.app
+shareicon: /images/isomer-logo.svg
+is_government: false
+facebook-pixel: ""
+google_analytics: ""
+linkedin-insights: ""
