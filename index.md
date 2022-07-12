@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Legal Technology Platform Initiative
-description: Brief site description here
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -41,3 +41,4 @@ sections:
       image: /images/Banner/Industry Engagement.jpg
       title: Industry Engagement
 ---
+
