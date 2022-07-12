@@ -1,17 +1,10 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/LTPI Lockup_Full Colour-resized.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Ltp Initiative
-    url: /ltp-initiative/
-  - title: Collection Example
-    collection: collection-example
-  - title: Legal Tech Initiative
-    resource_room: true
+  - title: Legal Technology Platform
+    url: /ltp
+  - title: LTPI Funding Programme
+    url: /funding
+  - title: Industry Engagement
+    url: /indengval
+  - title: About
+    collection: about
