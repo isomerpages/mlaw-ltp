@@ -57,30 +57,25 @@ permalink: /terms-of-use/
  
 #### **8\. Disclaimers and Limitation of Liability**
 
-a.  While every care is taken by MLAW in providing the Contents and services on the Digital Service, MLAW does not make any warranty or representation whatsoever and hereby disclaims all express, implied and statutory warranties of any kind to you, whether arising from usage or custom or trade or by operation of law or otherwise, including but not limited to the following:  
+1. While every care is taken by MLAW in providing the Contents and services on the Digital Service, MLAW does not make any warranty or representation whatsoever and hereby disclaims all express, implied and statutory warranties of any kind to you, whether arising from usage or custom or trade or by operation of law or otherwise, including but not limited to the following:  
       
-   **1.** That your use of, or access to the Digital Service and its services will be uninterrupted, timely, secure, free of bugs, free from human tampering, free from viruses or other malicious, destructive or corrupting code, programme or macro, free from transmission errors or otherwise error-free or that there will not be any defects or deficiencies in the Digital Service;  
+*    That your use of, or access to the Digital Service and its services will be uninterrupted, timely, secure, free of bugs, free from human tampering, free from viruses or other malicious, destructive or corrupting code, programme or macro, free from transmission errors or otherwise error-free or that there will not be any defects or deficiencies in the Digital Service;  
       
-   **2.** As regards the security of the Digital Service or the security of your information captured in or made available through applications for licenses, permits or registrations at the Digital Service; and  
+* As regards the security of the Digital Service or the security of your information captured in or made available through applications for licenses, permits or registrations at the Digital Service; and  
 
-   **3.** As to the accuracy, completeness, reliability, non-infringement of third party rights, title, merchantability, satisfactory quality and/or fitness for any particular purpose of the Contents of the Digital Service.
+* As to the accuracy, completeness, reliability, non-infringement of third party rights, title, merchantability, satisfactory quality and/or fitness for any particular purpose of the Contents of the Digital Service.
 
-b.  MLAW shall not be liable for any damages, losses, compensation, penalty, expenses or costs whatsoever (whether direct, indirect, special or consequential damage or economic loss and whether foreseeable or not) incurred on account of or arising from:  
+2. MLAW shall not be liable for any damages, losses, compensation, penalty, expenses or costs whatsoever (whether direct, indirect, special or consequential damage or economic loss and whether foreseeable or not) incurred on account of or arising from:  
       
-   **1.** Using, visiting or relying on any statements, opinion, representation or information provided through the Digital Service;  
-      
-   **2.** The access to the Digital Service or use of any services offered on the Digital Service;  
-  
-**3.** Any inaccuracy or incompleteness in, or errors or omission in the content of the Digital Service;  
-      
-   **4.** Any delay or errors in operation or transmission of the Digital Service arising from communications failure, internet access difficulties or malfunctions in equipment or software;  
-      
-   **5.** Use or access to the Digital Service or any other website linked to the Digital Service or in connection with any failure of performance, error, omission, interruption, defect, delay in operation or transmission, computer virus or line or system failure; and  
-    ‍  
-    **6.** Actions or omissions of any person who access or use the applications at the Digital Service or obtains any information obtained directly or indirectly through the Digital Service, regardless of whether MLAW has been advised of the possibility of such damages, loss, compensation, penalty, expenses or costs.
+* Using, visiting or relying on any statements, opinion, representation or information provided through the Digital Service;  
+* The access to the Digital Service or use of any services offered on the Digital Service;  
+* Any inaccuracy or incompleteness in, or errors or omission in the content of the Digital Service;  
+*  Any delay or errors in operation or transmission of the Digital Service arising from communications failure, internet access difficulties or malfunctions in equipment or software;  
+* Use or access to the Digital Service or any other website linked to the Digital Service or in connection with any failure of performance, error, omission, interruption, defect, delay in operation or transmission, computer virus or line or system failure; and  
+* Actions or omissions of any person who access or use the applications at the Digital Service or obtains any information obtained directly or indirectly through the Digital Service, regardless of whether MLAW has been advised of the possibility of such damages, loss, compensation, penalty, expenses or costs.
 
 #### **9\. Applicable laws**
 
-a.  Use of the Digital Service and these Terms of Use and all its subsequent variations shall be subject to, governed by, and interpreted in accordance with the laws of the Republic of Singapore, and you hereby agree to submit to the exclusive jurisdiction of the Singapore courts in the determination of any dispute arising in connection with the use of the Digital Service.
+1. Use of the Digital Service and these Terms of Use and all its subsequent variations shall be subject to, governed by, and interpreted in accordance with the laws of the Republic of Singapore, and you hereby agree to submit to the exclusive jurisdiction of the Singapore courts in the determination of any dispute arising in connection with the use of the Digital Service.
 
 * * *
