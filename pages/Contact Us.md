@@ -7,4 +7,4 @@ description: ""
 singapore@lupl.com 
 
 ### Sales enquiries:
-[sales@lupl.com](sales@lupl.com)
+sales@lupl.com
