@@ -18,11 +18,9 @@ permalink: /privacy/
 
 1.  If you provide us with personal data:  
       
-    1\. Where appropriate, we may share necessary data with other Government Agencies, so as to improve the discharge of public functions, and to serve you in the most efficient and effective way unless such sharing is prohibited by law.  
-      
-    2\. We may share your personal data with non-Government entities that have been authorised to carry out specific Government services. We will NOT share your personal data with other non-Government entities without your consent except where such sharing complies with the law.  
-      
-    3\. For your convenience, we may also display to you data that you had previously supplied us or other Government Agencies. This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data.
+* Where appropriate, we may share necessary data with other Government Agencies, so as to improve the discharge of public functions, and to serve you in the most efficient and effective way unless such sharing is prohibited by law.
+* We may share your personal data with non-Government entities that have been authorised to carry out specific Government services. We will NOT share your personal data with other non-Government entities without your consent except where such sharing complies with the law.  
+* For your convenience, we may also display to you data that you had previously supplied us or other Government Agencies. This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data.
 
 **Protection of Data**
 
@@ -33,9 +31,8 @@ permalink: /privacy/
 
 1.  Please contact [MLAW\_IndustryEngagements@mlaw.gov.sg](mailto:MLAW_IndustryEngagements@mlaw.gov.sg) if you:  
       
-    1\. have any enquires or feedback on our data protection, policies and procedures; or  
-      
-    2\. need more information on or access to data which you have provided directly to us in the past.
+* have any enquires or feedback on our data protection, policies and procedures; or        
+* need more information on or access to data which you have provided directly to us in the past.
 
 **Definitions**
 
