@@ -53,7 +53,7 @@ permalink: /terms-of-use/
 
 #### **7\. Privacy Policy**
 
-1.  Please [click here](https://staging-isomer-mlaw.netlify.com/privacy/)[\[RQ1\]](#_msocom_1)  to review the Digital Service’s Privacy Statement. 
+1.  Please [click here](/privacy/)to review the Digital Service’s Privacy Statement. 
  
 #### **8\. Disclaimers and Limitation of Liability**
 
