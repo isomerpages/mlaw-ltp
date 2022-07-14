@@ -47,16 +47,14 @@ permalink: /terms-of-use/
 
 #### **6. Intellectual property**
 
-a.  The materials located on this Digital Service including the source code, data, pages, documents and online graphics, audio and video media, and information and software programs (“the Contents”), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by or licensed to MLAW.
-
-b.  Except as otherwise provided, no part of the Contents may be reproduced, transmitted, distributed, incorporated in printed or electronic form or used in any way without the prior written approval of MLAW Approval should be sought by sending a request through this link.
-
-c.  You may make copies of the text for the purposes of applying for licences, permits and registrations on the Digital Service. You may also print out, and copy portions of the text in accordance with the provisions of the Copyright Act.
+1. The materials located on this Digital Service including the source code, data, pages, documents and online graphics, audio and video media, and information and software programs (“the Contents”), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by or licensed to MLAW.
+2. Except as otherwise provided, no part of the Contents may be reproduced, transmitted, distributed, incorporated in printed or electronic form or used in any way without the prior written approval of MLAW Approval should be sought by sending a request through this link.
+3. You may make copies of the text for the purposes of applying for licences, permits and registrations on the Digital Service. You may also print out, and copy portions of the text in accordance with the provisions of the Copyright Act.
 
 #### **7\. Privacy Policy**
 
-1.  Please [click here](https://staging-isomer-mlaw.netlify.com/privacy/)[\[RQ1\]](#_msocom_1)  to review the Digital Service’s Privacy Statement. .
-
+1.  Please [click here](https://staging-isomer-mlaw.netlify.com/privacy/)[\[RQ1\]](#_msocom_1)  to review the Digital Service’s Privacy Statement. 
+ 
 #### **8\. Disclaimers and Limitation of Liability**
 
 a.  While every care is taken by MLAW in providing the Contents and services on the Digital Service, MLAW does not make any warranty or representation whatsoever and hereby disclaims all express, implied and statutory warranties of any kind to you, whether arising from usage or custom or trade or by operation of law or otherwise, including but not limited to the following:  
