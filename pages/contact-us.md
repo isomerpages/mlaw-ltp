@@ -5,8 +5,13 @@ permalink: /contact-us/
 agency_name: LTPI Support
 contacts:
   - content:
-      - phone: +65 6000 0000
-      - email: enquiries@abc.gov.sg
+      - phone: ""
+      - email: singapore@lupl.com
       - other: ""
-    title: General Enquiries & Feedback
+    title: "General Enquiries & Feedback:"
+  - content:
+      - phone: ""
+      - email: sales@lupl.com
+      - other: ""
+    title: "Sales Enquiries:"
 ---
