@@ -6,12 +6,17 @@ agency_name: LTPI Support
 contacts:
   - content:
       - phone: ""
-      - email: singapore@lupl.com
+      - email: MLAW_IndustryEngagement@mlaw.gov.sg
       - other: ""
-    title: "General Enquiries & Feedback:"
+    title: "Enquiries to MLAW:"
   - content:
       - phone: ""
       - email: sales@lupl.com
       - other: ""
     title: "Sales Enquiries:"
+  - content:
+      - phone: ""
+      - email: singapore@lupl.com
+      - other: ""
+    title: "Enquiries to Lupl:"
 ---

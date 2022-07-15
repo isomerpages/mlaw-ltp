@@ -3,8 +3,10 @@ title: Contact Us
 permalink: /contact
 description: ""
 ---
-### General enquiries & feedback:
-singapore@lupl.com 
 
-### Sales enquiries:
+### Contact us for any feedback:
+MLAW_IndustryEngagement@mlaw.gov.sg
+
+### Get in touch with Lupl:
+singapore@lupl.com 
 sales@lupl.com
