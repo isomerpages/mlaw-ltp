@@ -25,3 +25,5 @@ The IEAG was jointly appointed by MinLaw and Lupl, to ensure ongoing engagement 
 ![Lim Seng Siew](/images/IEAG/7LSS-final.png)
 
 ![Raeza Ibrahim](/images/IEAG/8RI-final.png)
+
+![Toh Ming Min](/images/IEAG/9TMM-final.png)
