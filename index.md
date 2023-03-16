@@ -40,4 +40,10 @@ sections:
       alt: Industry Engagement
       image: /images/Banner/Industry Engagement.jpg
       title: Industry Engagement
+  - infopic:
+      title: Legal Technology Platform Initiative
+      subtitle: Infopic Subtitle
+      description: Infographic information about Legal Technology Platform Initiative
+      button: Button Text
+      alt: Image alt text
 ---
