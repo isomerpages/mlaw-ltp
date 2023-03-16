@@ -3,7 +3,6 @@ title: LTPI Infographic
 permalink: /ltpiinfo/
 description: ""
 ---
+![](/images/LTPI%20Infographic.jpg)
 
-![](/images/LTP%20info.png)
-
-[Infographic](/files/(Web%20Version)%20MinLaw_Infographic_FA.pdf)
+Click [here](/files/LTPI%20Infographic.pdf) for PDF version
