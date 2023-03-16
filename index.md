@@ -46,5 +46,5 @@ sections:
       button: Click here
       alt: Image alt text
       image: /images/Banner/LTPI.jpg
-      url: /ltpitest
+      url: /ltpiinfo
 ---
