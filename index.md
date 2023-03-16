@@ -14,8 +14,8 @@ sections:
         Singapore law firms to kickstart their digitalisation journey
       button: Request for demo
       key_highlights:
-        - title: Key Highlight Title
-          description: Key Highlight description
+        - title: ""
+          description: ""
           url: ""
   - infopic:
       button: Find out more
