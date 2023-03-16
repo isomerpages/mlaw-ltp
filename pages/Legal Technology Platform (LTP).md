@@ -1,6 +1,6 @@
 ---
 title: Legal Technology Platform (LTP)
-permalink: /ltp
+permalink: /ltp/
 description: ""
 image: /images/Banner/LTP initiative.jpg
 ---
@@ -34,4 +34,4 @@ The LTP incorporates the security and data privacy requirements of leading law f
 
 ![LTP support](/images/LTP%20folder/5%20troubleshooting.png)
 
-##### Sign up for a product demo [here](https://sg.lupl.com/demo).
+##### Sign up for a product demo [here](https://sg.lupl.com/demo)

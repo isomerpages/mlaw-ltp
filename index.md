@@ -13,6 +13,10 @@ sections:
       subtitle: The LTPI is a major initiative by the Ministry of Law to support
         Singapore law firms to kickstart their digitalisation journey
       button: Request for demo
+      key_highlights:
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
   - infopic:
       button: Find out more
       url: /ltp
@@ -40,4 +44,11 @@ sections:
       alt: Industry Engagement
       image: /images/Banner/Industry Engagement.jpg
       title: Industry Engagement
+  - infopic:
+      title: Legal Technology Platform Initiative
+      description: Infographic information about Legal Technology Platform Initiative
+      button: Click here
+      alt: Image alt text
+      image: /images/Banner/LTPI.jpg
+      url: /ltpiinfo
 ---
