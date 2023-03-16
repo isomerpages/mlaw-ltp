@@ -10,7 +10,7 @@ image: /images/Banner/LTP initiative.jpg
 
 A matter management and collaboration tool designed around legal workflows, integrated with legaltech tools and public services commonly used by Singapore law firms.
 
-Co-developed by MinLaw and its LTPI technology partner, [Lupl](https://lupl.com/), in consultation with over 100 lawyers from small and medium Singapore law firms.
+Co-developed by MinLaw and its LTPI technology partner, [Lupl](https://), in consultation with over 100 lawyers from small and medium Singapore law firms.
 
 ![LTP dashboard](/images/LTP%20folder/2%20dashboard.png)
 
@@ -34,4 +34,4 @@ The LTP incorporates the security and data privacy requirements of leading law f
 
 ![LTP support](/images/LTP%20folder/5%20troubleshooting.png)
 
-##### Sign up for a product demo [here](https://sg.lupl.com/demo)
+##### Sign up for a product demo [here](https://)
