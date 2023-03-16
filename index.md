@@ -42,8 +42,9 @@ sections:
       title: Industry Engagement
   - infopic:
       title: Legal Technology Platform Initiative
-      subtitle: Infopic Subtitle
       description: Infographic information about Legal Technology Platform Initiative
-      button: Button Text
+      button: Click here
       alt: Image alt text
+      image: /images/Banner/LTPI.jpg
+      url: /ltpitest
 ---
