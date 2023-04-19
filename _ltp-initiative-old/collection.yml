@@ -1,5 +1,4 @@
 collections:
   ltp-initiative-old:
     output: true
-    order:
-      - Industry Engagement and Validation.md
+    order: []
