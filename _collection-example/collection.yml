@@ -1,5 +1,4 @@
 collections:
   collection-example:
     output: true
-    order:
-      - page-example.md
+    order: []
