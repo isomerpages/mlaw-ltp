@@ -2,5 +2,4 @@ collections:
   ltp-initiative-old:
     output: true
     order:
-      - LTPI Funding Programme.md
       - Industry Engagement and Validation.md
