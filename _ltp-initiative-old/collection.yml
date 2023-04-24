@@ -1,8 +1,0 @@
-collections:
-  ltp-initiative-old:
-    output: true
-    order:
-      - Legal Technology Platform Initiative.md
-      - Legal Technology Platform (LTP).md
-      - LTPI Funding Programme.md
-      - Industry Engagement and Validation.md
