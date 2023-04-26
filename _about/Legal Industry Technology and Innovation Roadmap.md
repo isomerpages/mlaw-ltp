@@ -1,6 +1,6 @@
 ---
 title: Legal Industry Technology and Innovation Roadmap
-permalink: /ltpi-website/Roadmap
+permalink: /ltpi-website/roadmap/
 description: ""
 ---
 **A sector-wide plan to promote innovation, technology adoption and development in Singapore's legal industry up to 2030.**

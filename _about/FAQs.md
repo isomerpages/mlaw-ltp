@@ -1,6 +1,6 @@
 ---
 title: FAQs
-permalink: /about/faqs
+permalink: /about/faqs/
 description: ""
 ---
 **1. What is the Legal Technology Platform Initiative all about?**
