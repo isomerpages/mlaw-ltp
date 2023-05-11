@@ -1,6 +1,6 @@
 ---
 title: Industry Engagement and Validation
-permalink: /IndEngVal
+permalink: /indengval/
 description: ""
 ---
 The LTP was developed for Singapore law firms in close consultation with more than 100 lawyers from small and medium Singapore law firms, including through feedback sessions co-organised by the Law Society of Singapore with its members and relevant standing committees.
