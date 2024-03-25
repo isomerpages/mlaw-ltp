@@ -3,6 +3,7 @@ title: Legal Technology Platform (LTP)
 permalink: /ltp/
 description: ""
 image: /images/Banner/LTP initiative.jpg
+variant: markdown
 ---
 ## OVERVIEW
 
@@ -10,9 +11,9 @@ image: /images/Banner/LTP initiative.jpg
 
 A matter management and collaboration tool designed around legal workflows, integrated with legaltech tools and public services commonly used by Singapore law firms.
 
-Co-developed by MinLaw and its LTPI technology partner, [Lupl](https://app.lupl.com/home), in consultation with over 100 lawyers from small and medium Singapore law firms.
+Co-developed by MinLaw and its LTPI technology partner, [Lupl](https://sg.lupl.com), in consultation with over 100 lawyers from small and medium Singapore law firms.
 
-![LTP dashboard](/images/LTP%20folder/2%20dashboard.png)
+![LTP dashboard](/images/LTP%20folder/ltp_dashboard_mobile_and_web.png)
 
 ## KEY FEATURES
 
@@ -28,7 +29,7 @@ NOTE: MinLaw encourages all legaltech users to familiarise themselves with the L
 
 The LTP incorporates the security and data privacy requirements of leading law firms and in-house legal departments.
 
-![LTP key security features](/images/LTP%20folder/4%20key%20security%20features.png)
+![LTP key security features](/images/LTP%20folder/4_key_security_features_2.png)
 
 ### TROUBLESHOOTING, UPGRADING AND MAINTENANCE
 
