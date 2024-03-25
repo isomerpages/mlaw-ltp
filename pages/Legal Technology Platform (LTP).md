@@ -29,7 +29,7 @@ NOTE: MinLaw encourages all legaltech users to familiarise themselves with the L
 
 The LTP incorporates the security and data privacy requirements of leading law firms and in-house legal departments.
 
-![LTP key security features](/images/LTP%20folder/4%20key%20security%20features.png)
+![LTP key security features](/images/LTP%20folder/4_key_security_features_2.png)
 
 ### TROUBLESHOOTING, UPGRADING AND MAINTENANCE
 
