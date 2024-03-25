@@ -13,7 +13,7 @@ A matter management and collaboration tool designed around legal workflows, inte
 
 Co-developed by MinLaw and its LTPI technology partner, [Lupl](https://sg.lupl.com), in consultation with over 100 lawyers from small and medium Singapore law firms.
 
-![LTP dashboard](/images/LTP%20folder/2%20dashboard.png)
+![LTP dashboard](/images/LTP%20folder/ltp_dashboard_mobile_and_web.png)
 
 ## KEY FEATURES
 
