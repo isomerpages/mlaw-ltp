@@ -8,15 +8,11 @@ notification: ""
 sections:
   - hero:
       background: /images/Banner/Front banner.jpg
-      url: https://
+      url: https://sg.lupl.com/demo
       title: Legal Technology Platform Initiative (LTPI)
       subtitle: The LTPI is a major initiative by the Ministry of Law to support
         Singapore law firms to kickstart their digitalisation journey
       button: Request for demo
-      key_highlights:
-        - title: ""
-          description: ""
-          url: ""
   - infopic:
       button: Find out more
       url: /ltp
